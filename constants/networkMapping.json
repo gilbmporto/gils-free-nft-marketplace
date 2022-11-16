@@ -1,0 +1,10 @@
+{
+    "5": {
+        "NftMarketplace": ["0xbC0F9b666a7907f081F995DEb8C2b4155859D416"],
+        "GilRandomNft": ["0x74670D80ceF148a1cA6E30d07D79f0550D3D49b7"],
+        "BasicNft": ["0x60f37A70cf14f2E670b22E72104d13c61423CfA0"],
+        "RandomIpfsNft": ["0xF78CeF719757ac1b0B160c31933c5D45CC24BBF8"],
+        "DynamicSvgNft": ["0x01647e25423492b5Ea4995b8b96611e37cCd6A42"]
+    },
+    "31337": { "NftMarketplace": ["0x5FbDB2315678afecb367f032d93F642f64180aa3"] }
+}
