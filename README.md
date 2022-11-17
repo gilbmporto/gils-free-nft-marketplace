@@ -17,3 +17,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Where you may list your own NFTs.
 
 - Website URL: https://gils-free-nft-marketplace.vercel.app
+
+- Back-end (Smart contracts): https://github.com/gilbmporto/gils-free-nft-marketplace-contracts
